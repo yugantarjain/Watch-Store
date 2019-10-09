@@ -11,11 +11,7 @@ Note- It is designed to run on TurboC++
 
 ![Home esc](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/HomeEsc.png)
 
-![Custom Create](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/CustomCreate.png)
-
-![Custom Order](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/CustomOrder.png)
-
-![Order Esc](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/OderEsc.png)
+![Order](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/StandardOrder.png)
 
 ![Logs](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/Logs.png)
 
