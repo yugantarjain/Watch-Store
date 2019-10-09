@@ -13,6 +13,6 @@ Note- It is designed to run on TurboC++
 
 ![Order Page](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/StandardOrder.png)
 
-|[Order Esc](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/OderEsc.png)
+![Order Esc](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/OderEsc.png)
 
 
