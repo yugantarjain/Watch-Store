@@ -13,6 +13,8 @@ Note- It is designed to run on TurboC++
 
 ![Order](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/StandardOrder.png)
 
+![Custom](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/CustomCreate.png)
+
 ![Logs](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/Logs.png)
 
 ![Exit](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/Exit.png)
