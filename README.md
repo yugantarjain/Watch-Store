@@ -17,4 +17,6 @@ Note- It is designed to run on TurboC++
 
 ![Exit](https://github.com/yugantarjain/WatchStore/blob/master/Screenshots/Exit.png)
 
+*Kindly refer to the Screenshots folder for full reference.
+
 
